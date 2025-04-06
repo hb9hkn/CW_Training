@@ -4,19 +4,6 @@ Welcome to the **CW Training** project! This repository provides two types of pr
 
 ---
 
-## 📚 Word Collections
-
-I’ve curated the **1,000 most popular English words** and organized them by word length.
-
-### 💡 Why?
-When learning head-copying, it's essential to begin with **shorter words** and gradually progress to **longer ones**. This approach helps train your brain to handle increasingly complex signals.
-
-### 🎧 How to Use:
-- Load these word lists into CW training apps that can **randomize and play them back**.
-- Practice daily and increase word length over time.  
-
----
-
 ## 📖 Stories in CW
 
 A growing collection of **short stories converted into CW audio**, sourced from [Project Gutenberg – Free eBooks](https://www.gutenberg.org/).
@@ -46,4 +33,3 @@ A growing collection of **short stories converted into CW audio**, sourced from 
 ## 🚀 Ready to Train?
 
 Whether you're just starting out or looking to push your decoding speed to the next level, this repo has something for you.
-

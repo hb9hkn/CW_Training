@@ -22,9 +22,9 @@ A growing collection of **short stories converted into CW audio**, sourced from 
 
 ## 🗜️ How to Unpack the Stories
 
-1. 📥 Download the `.zip` archive of the story.
-2. 📂 Extract all files to a **local folder**.
-3. 🧩 Inside, you'll find another `.zip` – extract that too.
+1. 📂👉 Select the story and the starting speed of the story based on the directory names
+2. 📥 Download all files of the `.zip` archive of the story (the .zip and all .zXX where the XX are the sequential numbers).
+3. 📂 Extract all files to a **local folder**.
 4. 🎶 You’ll end up with several `.mp3` files.
 5. 🎧 Play them using any **MP3 player or mobile app** of your choice.
 

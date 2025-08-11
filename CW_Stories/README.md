@@ -10,7 +10,7 @@ A growing collection of **short stories converted into CW audio**, sourced from 
 
 ### ⚖️ Preprocessing:
 - Special characters are stripped and replaced with basic punctuation to improve readability.
-- Files are provided at **five different speeds**, starting from beginner-friendly to more advanced.
+- Files are provided at **five different starting speeds**, starting from beginner-friendly to more advanced.
 
 ### 🏁 Training Method:
 1. Start at the speed where you can understand **at least 80%** of the text.
